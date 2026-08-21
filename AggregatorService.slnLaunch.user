@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "All",
+    "Projects": [
+      {
+        "Path": "AggregatorService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "..\\authorization-module\\authorization-module.API\\authorization-module.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "..\\VocabularyService\\VocabularyService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
